@@ -8,7 +8,9 @@ public class Main {
         }
         while (true){
             System.out.println("Ти мій солоденький!");
+
         }
+        // Виправь це  \_(..)_/
     }
 
 }
