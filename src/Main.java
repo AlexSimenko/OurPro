@@ -6,6 +6,11 @@ public class Main {
         for (int i = 0; i <10 ; i++) {
             System.out.println("I love Nastya");
         }
+        while (true){
+            System.out.println("Ти мій солоденький!");
+
+        }
+        // Виправь це  \_(..)_/
     }
 
 }
